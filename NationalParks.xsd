@@ -32,7 +32,7 @@
 			
 		</xsd:sequence>
 		
-		<xsd:attribute name="Rating" type="xsd:string" use="optional"/>
+		<xsd:attribute name="Rating" type="xsd:decimal" use="optional"/>
 	</xsd:complexType>
 
 	<!-- This is the address type that is going to be used in Address element-->
